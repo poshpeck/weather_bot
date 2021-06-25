@@ -1,0 +1,10 @@
+*__pycache__/
+*.pyc
+*.sqlite3
+*.db
+
+.env
+.idea
+weather_bot_env
+
+.DS_Store
